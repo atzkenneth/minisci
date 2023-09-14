@@ -136,7 +136,7 @@ rxn_substrates_scoring_700.csv
 ```
 
 ## 5. License
-The software was developed at ETH Zurich and is licensed by the MIT license, i.e. discribed in `LICENSE`.
+The software was developed at ETH Zurich and is licensed by the AGPL-3.0 license, i.e. discribed in `LICENSE`.
 
 ## 6. Citation
 ```
